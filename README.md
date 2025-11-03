@@ -1,5 +1,6 @@
 # MSCS_634_Lab_1
 # Brain Tumor Feature Analysis  
+### Vinay Varma Sagi
 ### Course: MSCS 634 – Data Science and Machine Learning  
 ### Lab Title: Data Visualization, Preprocessing, and Statistical Analysis  
 
